@@ -3,12 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://masashisalvador57f.github.io/post/first_post/</loc>
+    <lastmod>2017-05-03T13:03:19+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://masashisalvador57f.github.io/about/</loc>
+    <lastmod>2017-05-01T13:03:19+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://masashisalvador57f.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://masashisalvador57f.github.io/</loc>
+    <lastmod>2017-05-03T13:03:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://masashisalvador57f.github.io/post/</loc>
+    <lastmod>2017-05-03T13:03:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
